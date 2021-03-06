@@ -1,6 +1,6 @@
 # Twitter App - Part 1
 
-**Twitter App** is a basic twitter app to read your tweets.
+**Twitter App** allows you to view your timeline of tweets.
 
 Time spent: **4** hours spent in total
 
