@@ -23,6 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
 Home Screen Icon, Styled Launch Screen, Login - 
 
 <img src='https://recordit.co/BZEMxBNJ6s.gif' title='Home Screen Icon, Styled Launch Screen, Login' width='' alt='First Two' />
