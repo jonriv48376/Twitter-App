@@ -32,3 +32,8 @@ Home Screen Icon, Styled Launch Screen, Login, Tweets with Profile Picture, User
 Stays Logged In, Can Log Out - 
 
 <img src='https://recordit.co/Oo1P7xc5VU.gif' title='Stays Logged In, Can Log Out' width='' alt='' />
+
+
+Pull to Refresh, Load Tweets Infinitely - 
+
+<img src='https://recordit.co/kUCjn5iIxo.gif' title='Pull to Refresh, Load Tweets Infinitely' width='' alt='' />
