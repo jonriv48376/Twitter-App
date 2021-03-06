@@ -26,5 +26,9 @@ Here's a walkthrough of implemented user stories:
 
 Home Screen Icon, Styled Launch Screen, Login, Tweets with Profile Picture, UserName, and Tweet Text - 
 
-<img src='https://recordit.co/BZEMxBNJ6s.gif' title='Home Screen Icon, Styled Launch Screen, Login' width='' alt='First Two' />
+<img src='https://recordit.co/BZEMxBNJ6s.gif' title='Home Screen Icon, Styled Launch Screen, Login' width='' alt='' />
 
+
+Stays Logged In, Can Log Out - 
+
+<img src='https://recordit.co/Oo1P7xc5VU.gif' title='Stays Logged In, Can Log Out' width='' alt='' />
